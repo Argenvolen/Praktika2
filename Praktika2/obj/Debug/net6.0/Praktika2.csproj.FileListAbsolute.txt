@@ -1,0 +1,14 @@
+D:\projects\Praktika2\bin\Debug\net6.0\Praktika2.exe
+D:\projects\Praktika2\bin\Debug\net6.0\Praktika2.deps.json
+D:\projects\Praktika2\bin\Debug\net6.0\Praktika2.runtimeconfig.json
+D:\projects\Praktika2\bin\Debug\net6.0\Praktika2.dll
+D:\projects\Praktika2\bin\Debug\net6.0\Praktika2.pdb
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.AssemblyInfoInputs.cache
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.AssemblyInfo.cs
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.csproj.CoreCompileInputs.cache
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.dll
+D:\projects\Praktika2\obj\Debug\net6.0\refint\Praktika2.dll
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.pdb
+D:\projects\Praktika2\obj\Debug\net6.0\Praktika2.genruntimeconfig.cache
+D:\projects\Praktika2\obj\Debug\net6.0\ref\Praktika2.dll
